@@ -1,4 +1,4 @@
-<h1>Emile Seguret - Portfolio<br/><a href="https://github.com/joshmadakor1">Data Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Développeur Backend / Frontend </a></h1>
+<h1>Emile Seguret - Portfolio<br/><a href="https://www.linkedin.com/in/emile-seguret/">Data Engineer</a>, <a href="https://www.linkedin.com/in/emile-seguret/">Développeur Backend / Frontend </a></h1>
 
 Etudiant en Bachelor 2 Informatique à Lyon YNOV Campus en vue d'un Mastère spécialité Data Scientist.
 Je suis actuellement en recherche d'une alternance (contrat d'apprentissage) à partir de septembre 2023 et d'un stage de 6 semaines minimum à partir de début juillet 2023.
@@ -34,6 +34,6 @@ Par ailleurs j'ai pu réaliser de nombreux projets dont 2 encore en cours :
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Emile SEGURET | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/emile-seguret/
