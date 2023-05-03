@@ -26,13 +26,13 @@ Par ailleurs j'ai pu réaliser de nombreux projets dont 2 encore en cours :
 - <b>Python / Programmation Orienté Objet </b>
   - [Waiting Room Hospital](https://github.com/JeanPhilippeCaetano/waiting-room-python)
 
-<h2>📺 Vidéos Tuto Youtube </h2>
+<h2>📺 Vidéos Tuto Youtube :</h2>
 
 - [Gestion du responsive - CSS](https://www.youtube.com/watch?v=BB0V56mD654&ab_channel=LyonYnovMentor)
 - [Gérer les images - CSS](https://www.youtube.com/watch?v=MUzwWdm1Rcg&ab_channel=LyonYnovMentor)
 - [Polices d'écriture - CSS](https://www.youtube.com/watch?v=x3wh_Fox2A4&ab_channel=LyonYnovMentor)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Me contacter :</h2>
 
 [<img align="left" alt="Emile SEGURET | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
