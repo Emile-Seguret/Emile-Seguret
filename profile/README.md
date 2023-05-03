@@ -12,7 +12,7 @@ Au cours de ma formation je touche à divers domaines :
 
 Par ailleurs j'ai pu réaliser de nombreux projets dont 2 encore en cours :
  - Création d'une application mobile multi plateforme autour du monde de la Moto
- - Création et gestion d'un incubateur ayant pour but la réalisation d'un festival caritatif le 27 mai 2023
+ - Création et gestion d'un incubateur ayant pour mission la réalisation d'un festival caritatif le 27 mai 2023
 
 <h2>👨‍💻 Projets :</h2>
 
